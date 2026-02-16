@@ -1,2 +1,1 @@
-# First-Repo
-First repository on my coding journey!
+# Hello viewers! This is my first repository!
